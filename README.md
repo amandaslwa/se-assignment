@@ -4,6 +4,7 @@
 | Amanda Salwa Salsabila | FE4437780 |
 
 ## Flowchart
+![alt text](https://github.com/amandaslwa/se-assignment/blob/master/Amanda%20Salwa%20Salsabila_FE4437780_Flowchart.png)
 
 ## Pseudocode
 ```
